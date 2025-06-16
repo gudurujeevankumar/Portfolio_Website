@@ -531,6 +531,10 @@ header ul a:hover{
     display: none;
 }
 
+#my-projects-h1 {
+    font-size: 35px;
+}
+
 @keyframes hover-animation {
   0% {
     /* top:20%; */
@@ -1082,6 +1086,9 @@ header ul a:hover{
         height: 100%;
     }
 
+    #my-projects-h1 {
+    font-size: 40px;
+    }
     .project-vidbox video{
         width: 250px;
         margin-left: -100px;
