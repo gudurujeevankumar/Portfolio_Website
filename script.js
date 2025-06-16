@@ -152,32 +152,32 @@ gsap.from("#contact-h1", {
     }
 });
 
-gsap.from("input",{
-    x: 200,
-    opacity: 0,
-    scale: 0,
-    duration: 2,
-    scrollTrigger: {
-        trigger: "#contact-h1",
-        start: "top 60%",
-        end: "bottom 10%",
-        scrub: true,
-        markers: false
-    }
-});
-gsap.from(".contact-box p, .social-box",{
-    x: -800,
-    opacity: 0,
-    scale: 0,
-    duration: 2,
-    scrollTrigger: {
-        trigger: "#contact-h1",
-        start: "top 60%",
-        end: "bottom 10%",
-        scrub: true,
-        markers: false
-    }
-});
+// gsap.from("input",{
+//     x: 200,
+//     opacity: 0,
+//     scale: 0,
+//     duration: 2,
+//     scrollTrigger: {
+//         trigger: "#contact-h1",
+//         start: "top 60%",
+//         end: "bottom 10%",
+//         scrub: true,
+//         markers: false
+//     }
+// });
+// gsap.from(".contact-box p, .social-box",{
+//     x: -800,
+//     opacity: 0,
+//     scale: 0,
+//     duration: 2,
+//     scrollTrigger: {
+//         trigger: "#contact-h1",
+//         start: "top 60%",
+//         end: "bottom 10%",
+//         scrub: true,
+//         markers: false
+//     }
+// });
 
 
 
