@@ -72,7 +72,7 @@ Animated_Portfolio/
 
 ## Deployment
 
-The website can be deployed on platforms like [Netlify](https://www.netlify.com/), [Vercel](https://vercel.com/), or [GitHub Pages](https://pages.github.com/).
+The website can be deployed on platforms like [Netlify](https://www.netlify.com/).
 
 ## Contact
 
