@@ -78,7 +78,7 @@ Animated_Portfolio/
 
 ## Deployment
 
-The website can be deployed on platform [Netlify](https://www.netlify.com/).
+The website was deployed on platform [Netlify](https://www.netlify.com/).
 
 ## Contact
 
@@ -89,5 +89,7 @@ If you have any questions or suggestions, feel free to reach out:
 - **GitHub**: [gudurujeevankumar](https://github.com/gudurujeevankumar)
 
 ---
+# Preview :
+<img width="1440" height="900" alt="Screenshot 2025-07-11 at 11 55 05 PM" src="https://github.com/user-attachments/assets/d9aa6bff-0c0e-4406-bcde-aea04e6620fc" />
 
 ### Made with ❤️ by Jeevan Kumar
