@@ -1,6 +1,12 @@
-# Animated Portfolio Website
+# Animated Portfolio Website - CODTECH Internship Task 1
 
 This is a fully responsive and animated portfolio website designed to showcase projects, skills, and contact information. It features smooth animations, a modern design, and interactive sections to provide an engaging user experience.
+
+Internship Details:
+- Name: Guduru Jeevan Kumar
+- ID: CT08DM730
+- Domain: Full Stack Web Development
+- Task: 1 
 
 ## Features
 
